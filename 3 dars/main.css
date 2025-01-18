@@ -1,0 +1,112 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+display: flex;
+list-style: none;
+justify-content: space-around;
+
+
+}
+.item{
+
+
+    color: #000000;
+font-size: 32px;
+font-weight: 700;
+
+
+}
+.header{
+padding-top: 76px;
+
+
+
+
+}
+.tittle{
+    color: rgb(0, 0, 0);
+ 
+    font-size: 64px;
+    font-weight: 700;
+    
+    text-align: center;
+
+
+
+
+    
+}
+.hero{
+    padding-top: 128px;
+
+
+
+
+}
+.bola{
+
+    background: rgb(255, 0, 0);
+    /* Rectangle 3 */
+position: absolute;
+width: 558px;
+height: 452px;
+left: 811px;
+top: 448px;
+color: #ffffff;
+font-size: 64px;
+font-weight: 700;
+justify-content: center;
+text-align: center;
+padding-top: 187px;
+padding-right: 217px;
+padding-left: 176px;
+padding-bottom: 188px;
+}
+.bola1{
+    background: #ff0000;
+    /* Rectangle 5 */
+position: absolute;
+width: 558px;
+height: 452px;
+left: 63px;
+top: 448px;
+color: #ffffff;
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+padding-top: 187px;
+padding-right: 242px;
+padding-left: 191px;
+padding-bottom: 188px;
+
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    font-size: 20px;
+    margin-top: 70px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
